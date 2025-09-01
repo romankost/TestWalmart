@@ -1,0 +1,23 @@
+# IDE / local config
+*.iml
+.idea/
+.DS_Store
+
+# Gradle / build outputs
+.gradle/
+build/
+captures/
+.externalNativeBuild
+.cxx/
+
+# Local properties
+local.properties
+
+# APK / AAB outputs
+*.apk
+*.ap_
+*.aab
+
+# Generated code
+gen/
+out/

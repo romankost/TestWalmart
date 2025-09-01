@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestWalmart</string>
+    <string name="no_items_to_display">No items to display</string>
+</resources>
